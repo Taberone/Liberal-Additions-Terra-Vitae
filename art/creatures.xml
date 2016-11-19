@@ -522,6 +522,7 @@ Elements marked as hardcoded may have their values overridden by the game.
         <weapon>WEAPON_SMG_MP5</weapon>
         <weapon>WEAPON_SHOTGUN_PUMP</weapon>
         <weapon>WEAPON_SEMIPISTOL_9MM</weapon>
+		<weapon>WEAPON_SEMIRIFLE_AR15</weapon>
         <armor>ARMOR_POLICEARMOR</armor>
         <age>YOUNGADULT</age>
         <alignment>CONSERVATIVE</alignment>
