@@ -1182,6 +1182,7 @@ Elements marked as hardcoded may have their values overridden by the game.
 		<weapon>
             <type>WEAPON_M249_MACHINEGUN</type> <!-- Liberal Additions -->
             <number_clips>7</number_clips>
+		</weapon>
         <armor>ARMOR_ARMYARMOR</armor>
         <age>YOUNGADULT</age>
         <alignment>CONSERVATIVE</alignment>
