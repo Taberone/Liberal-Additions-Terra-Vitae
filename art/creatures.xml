@@ -815,6 +815,7 @@ Elements marked as hardcoded may have their values overridden by the game.
         <type_name>Musician</type_name>
         <encounter_name>Musician</encounter_name>
         <weapon>CIVILIAN</weapon>
+		<weapon>WEAPON_GUITAR</weapon>
         <armor>ARMOR_CLOTHES</armor>
         <age>MATURE</age>
         <money>0-10</money>
