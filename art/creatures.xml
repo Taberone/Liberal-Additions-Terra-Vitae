@@ -440,6 +440,7 @@ Elements marked as hardcoded may have their values overridden by the game.
             <psychology>1-4</psychology>
             <rifle>1-4</rifle>
             <shotgun>1-4</shotgun>
+			<smg>1-4</smg>
         </skills>
     </creaturetype>
 
@@ -1200,6 +1201,7 @@ Elements marked as hardcoded may have their values overridden by the game.
             <psychology>1-3</psychology>
             <rifle>1-4</rifle>
 			<heavyweapons>1-3</heavyweapons> <!-- Liberal Additions -->
+			<shotgun>1-3</shotgun>  <!-- Liberal Additions -->
         </skills>
     </creaturetype>
 
@@ -1879,6 +1881,7 @@ Elements marked as hardcoded may have their values overridden by the game.
             <psychology>3-5</psychology>
             <rifle>4-7</rifle>
 			<heavyweapons>1-4</heavyweapons> <!-- Liberal Additions -->
+			<shotgun>1-4</shotgun>  <!-- Liberal Additions -->
         </skills>
     </creaturetype>
 
