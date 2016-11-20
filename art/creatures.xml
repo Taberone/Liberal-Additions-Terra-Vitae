@@ -634,6 +634,7 @@ Elements marked as hardcoded may have their values overridden by the game.
             <rifle>2-9</rifle>
             <shotgun>2-9</shotgun>
             <smg>2-9</smg>
+			<heavyweapons>2-9</heavyweapons> <!-- Liberal Additions -->
         </skills>
     </creaturetype>
 
@@ -1176,6 +1177,9 @@ Elements marked as hardcoded may have their values overridden by the game.
             <type>WEAPON_SHOTGUN_PUMP</type> <!-- Liberal Additions -->
             <number_clips>7</number_clips>
         </weapon>
+		<weapon>
+            <type>WEAPON_M249_MACHINEGUN</type> <!-- Liberal Additions -->
+            <number_clips>7</number_clips>
         <armor>ARMOR_ARMYARMOR</armor>
         <age>YOUNGADULT</age>
         <alignment>CONSERVATIVE</alignment>
@@ -1195,6 +1199,7 @@ Elements marked as hardcoded may have their values overridden by the game.
             <pistol>1-3</pistol>
             <psychology>1-3</psychology>
             <rifle>1-4</rifle>
+			<heavyweapons>1-3</heavyweapons> <!-- Liberal Additions -->
         </skills>
     </creaturetype>
 
@@ -1708,6 +1713,7 @@ Elements marked as hardcoded may have their values overridden by the game.
             <religion>2-7</religion>
             <rifle>6-9</rifle>
             <shotgun>6-9</shotgun>
+			<heavyweapons>6-9</heavyweapons> <!-- Liberal Additions -->
         </skills>
     </creaturetype>
 
@@ -1872,6 +1878,7 @@ Elements marked as hardcoded may have their values overridden by the game.
             <handtohand>3-5</handtohand>
             <psychology>3-5</psychology>
             <rifle>4-7</rifle>
+			<heavyweapons>1-4</heavyweapons> <!-- Liberal Additions -->
         </skills>
     </creaturetype>
 
