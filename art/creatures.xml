@@ -396,6 +396,7 @@ Elements marked as hardcoded may have their values overridden by the game.
         <!-- <encounter_name> Hardcoded -->
         <!-- <weapon> Hardcoded -->
         <armor>ARMOR_POLICEARMOR</armor>
+		<armor>ARMOR_POLICEUNIFORM</armor>
         <age>MATURE</age>
         <!-- <alignment> Hardcoded -->
         <attributes>
@@ -471,6 +472,10 @@ Elements marked as hardcoded may have their values overridden by the game.
         </weapon>
 		<weapon>
             <type>WEAPON_SMG_P90</type> <!-- Liberal Additions -->
+            <number_clips>7</number_clips>
+        </weapon>
+		<weapon>
+            <type>WEAPON_GRENADE</type> <!-- Liberal Additions -->
             <number_clips>7</number_clips>
         </weapon>
         <armor>ARMOR_DEATHSQUADUNIFORM</armor>
