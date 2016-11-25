@@ -40,6 +40,14 @@
         <ammo>7</ammo>
         <fencevalue>3</fencevalue>
     </cliptype>
+	
+	<cliptype idname="CLIP_5.7"> <!-- Liberal Additions -->
+        <name>5.7x28mm Mag</name>
+        <name_future>5.7x28mm Slug Pack</name_future>
+        <ammo>20</ammo>
+        <fencevalue>5</fencevalue>
+    </cliptype>
+
 
     <cliptype idname="CLIP_9">
         <name>9mm Pistol Mag</name>
