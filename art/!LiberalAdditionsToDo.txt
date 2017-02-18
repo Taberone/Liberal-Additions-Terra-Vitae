@@ -1,0 +1,7 @@
+Deptstore and Oubliette changes to differentiate them from Pawnshop/Armsdealer
+
+Possibly tweak melee weapon stats and vehicle theft related stuff
+
+Document changes made
+
+Whatever else I forgot
