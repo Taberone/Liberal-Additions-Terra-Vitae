@@ -210,6 +210,12 @@
             <letter></letter>
             <price>100</price>
         </item>
+		<item>
+            <class>CLIP</class>
+            <description>Buy an AA-12 Drum</description>
+            <type>CLIP_DRUM_AA12</type> <!-- Liberal Additions: Impossible to have BOTH Shotgun and AA-12 sharing ammo AND separate clips for them as far as I know. -->
+            <price>50</price>
+        </item> 
     </department>
 
 </shop>

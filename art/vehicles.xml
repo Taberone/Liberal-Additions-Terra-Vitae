@@ -98,7 +98,7 @@
             <sense_alarm_chance>15</sense_alarm_chance> <!-- Liberal Additions -->
             <touch_alarm_chance>95</touch_alarm_chance> <!-- Liberal Additions -->
         </stealing>
-        <available_at_dealership>true</available_at_dealership>
+        <available_at_dealership>true</available_at_dealership> <!-- Liberal Additions -->
         <price>80000</price>
     </vehicletype>
 
@@ -195,8 +195,8 @@
             <color>Beige</color> <!-- Liberal Additions -->
         </colors>
         <drivebonus>3</drivebonus>
-        <longname>Supercar</longname>
-        <shortname>Super</shortname>
+        <longname>Supercar</longname> <!-- Liberal Additions -->
+        <shortname>Super</shortname> <!-- Liberal Additions -->
         <stealing> <!-- Liberal Additions: Stealing isn't possible for agentcars? Not anymore. -->
             <difficulty_to_find>9</difficulty_to_find> <!-- Liberal Additions -->
             <juice>50</juice> <!-- Liberal Additions: Takes massive balls to steal from the CIA -->

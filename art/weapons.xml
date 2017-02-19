@@ -340,7 +340,7 @@
             <attack_description>shoots at</attack_description>
             <skill>PISTOL</skill>
             <ammotype>CLIP_44</ammotype>
-            <random_damage>276</random_damage>
+            <random_damage>286</random_damage> <!-- Liberal Additions -->
             <fixed_damage>20</fixed_damage> <!-- Liberal Additions -->
             <shoots>true</shoots>
             <bleeding>true</bleeding>
@@ -445,7 +445,7 @@
             <ranged>true</ranged>
             <attack_description>shoots at</attack_description>
             <skill>SHOTGUN</skill>
-            <ammotype>CLIP_BUCKSHOT</ammotype> <!-- Liberal Additions: Impossible to have BOTH Shotgun and AA-12 sharing ammo AND separate clips for them as far as I know. -->
+            <ammotype>CLIP_DRUM_AA12</ammotype> <!-- Liberal Additions: Impossible to have BOTH Shotgun and AA-12 sharing ammo AND separate clips for them as far as I know. -->
             <random_damage>201</random_damage>
             <fixed_damage>30</fixed_damage>
             <shoots>true</shoots>
@@ -566,7 +566,7 @@
             <attack_description>shoots at</attack_description>
             <skill>PISTOL</skill>
             <ammotype>CLIP_50AE</ammotype>
-            <random_damage>301</random_damage>
+            <random_damage>311</random_damage> <!-- Liberal Additions -->
             <fixed_damage>20</fixed_damage> <!-- Liberal Additions -->
             <shoots>true</shoots>
             <bleeding>true</bleeding>
@@ -766,7 +766,7 @@
         <shortname_future>Molotov</shortname_future>
         <threatening>true</threatening>
         <fencevalue>0</fencevalue>
-        <size>15</size>
+        <size>5</size> <!-- Liberal Additions: It's a small bottle with a rag and alcohol in it-->
         <attack>
             <priority>1</priority>
             <ranged>true</ranged>

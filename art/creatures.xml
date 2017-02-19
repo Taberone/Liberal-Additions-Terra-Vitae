@@ -503,6 +503,7 @@ Elements marked as hardcoded may have their values overridden by the game.
             <shotgun>1-2</shotgun>
 			<heavyweapons>1-2</heavyweapons> <!-- Liberal Additions -->
 			<smg>1-2</smg> <!-- Liberal Additions -->
+			<throwing>1-2</throwing> <!-- Liberal Additions -->
         </skills>
     </creaturetype>
 
@@ -846,7 +847,7 @@ Elements marked as hardcoded may have their values overridden by the game.
         <type_name>Musician</type_name>
         <encounter_name>Musician</encounter_name>
         <weapon>CIVILIAN</weapon>
-		<weapon>WEAPON_GUITAR</weapon>
+		<weapon>WEAPON_GUITAR</weapon> 
         <armor>ARMOR_CLOTHES</armor>
         <age>MATURE</age>
         <money>0-10</money>
@@ -1216,7 +1217,7 @@ Elements marked as hardcoded may have their values overridden by the game.
 		</weapon>
 		<weapon>
             <type>WEAPON_GRENADE</type> <!-- Liberal Additions -->
-            <number_clips>7</number_clips>
+            <number_weapons>7</number_weapons>
 		</weapon>
         <armor>ARMOR_ARMYARMOR</armor>
         <age>YOUNGADULT</age>
@@ -1885,6 +1886,10 @@ Elements marked as hardcoded may have their values overridden by the game.
             <type>WEAPON_GRENADE</type> <!-- Liberal Additions -->
             <number_clips>7</number_clips>
         </weapon>
+		<weapon>
+            <type>WEAPON_SHOTGUN_AA12</type> <!-- Liberal Additions -->
+            <number_clips>7</number_clips>
+        </weapon>
         <armor>ARMOR_ARMYARMOR</armor>
         <age>YOUNGADULT</age>
         <alignment>CONSERVATIVE</alignment>
@@ -1940,6 +1945,7 @@ Elements marked as hardcoded may have their values overridden by the game.
 			<shotgun>1-4</shotgun>  <!-- Liberal Additions -->
 			<throwing>1-4</throwing> <!-- Liberal Additions -->
 			<pistol>1-4</pistol> <!-- Liberal Additions -->
+			<smg>1-4</smg> <!-- Liberal Additions -->
         </skills>
     </creaturetype>
 
@@ -2340,7 +2346,7 @@ Elements marked as hardcoded may have their values overridden by the game.
     </creaturetype>
 
     <creaturetype idname="CREATURE_TERRAVITAE_AGENT">
-        <type_name>Terra Vitae Agent</type_name> <!-- Liberal Additions: Added Terra Vitae to the name -->
+        <type_name>Agent</type_name> <!-- Liberal Additions: Added Terra Vitae to the name -->
         <weapon>WEAPON_SEMIPISTOL_9MM</weapon>
         <weapon>WEAPON_SEMIRIFLE_AR15</weapon>
 		<weapon>WEAPON_SEMIPISTOL_45</weapon> <!-- Liberal Additions -->

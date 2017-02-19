@@ -100,11 +100,11 @@
         <fencevalue>3</fencevalue>
     </cliptype>
 	
-	<!-- <cliptype idname="CLIP_DRUM_AA12">  Liberal Additions: Impossible to have BOTH Shotgun and AA-12 sharing ammo AND separate clips for them as far as I know.
-        <name>AA-12 Drum Magazine</name>
+	  <cliptype idname="CLIP_DRUM_AA12">  <!-- Liberal Additions: Impossible to have BOTH Shotgun and AA-12 sharing ammo AND separate clips for them as far as I know. -->
+        <name>AA-12 Drum</name>
         <name_future>Z-12 Plasma Belt</name_future>
         <ammo>20</ammo>
         <fencevalue>3</fencevalue>
-    </cliptype> -->
+    </cliptype>
 
 </clips>
