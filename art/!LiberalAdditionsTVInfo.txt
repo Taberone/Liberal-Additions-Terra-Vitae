@@ -9,6 +9,7 @@ Most melee weapons can hit multiple times
 Some custom attack descriptions added
 Certain weapons no longer protect from kidnapping
 Some weapons have their size reduced, and some weapons have minor additions like accuracy bonuses or bleeding
+AA-12 uses a 20-round drum magazine and fires shotgun slugs that have 6 AP
 
 (Fixed Damage = FD, Random Damage = RD, Armor Pierce = AP, SAD = Successive Attack Difficulty)
 44 Magnum: 20 fixed damage, 286 random damage, 6 Armor Pierce
@@ -68,7 +69,7 @@ Mafia Don: Desert Eagle
 Mafia Goon: 45 Pistol
 Mafia Hitman: P90, Five SeveN, 45 Pistol, Desert Eagle
 Agency Assassin: P90, Five SeveN, 44 Magnum
-Terra Vitae Leader: 45 Pistol, sword
+Terra Vitae Leader: 45 Pistol, Sword
 
 ----------
 EXPANDED CONSERVATIVE SKILLS:
