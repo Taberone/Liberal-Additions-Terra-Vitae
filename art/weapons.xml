@@ -1475,5 +1475,43 @@
             </critical>
         </attack>
     </weapontype>
+	
+	<weapontype idname="WEAPON_SNIPER"> <!-- Liberal Additions -->
+        <name>.300 Sniper Rifle</name>
+        <name_future>X9 Precision Laser</name_future>
+        <shortname>Sniper</shortname>
+        <shortname_future>X9 Sniper</shortname_future>
+        <can_take_hostages>true</can_take_hostages>
+        <threatening>true</threatening>
+        <legality>-2</legality>
+        <fencevalue>600</fencevalue>
+        <bashstrengthmod>125</bashstrengthmod>
+        <size>15</size>
+        <attack>
+            <priority>1</priority>
+            <ranged>true</ranged>
+            <attack_description>snipes at</attack_description>
+            <skill>RIFLE</skill>
+            <ammotype>CLIP_ASSAULT</ammotype>
+            <random_damage>301</random_damage>
+            <fixed_damage>15</fixed_damage>
+            <shoots>true</shoots>
+            <bleeding>true</bleeding>
+            <damages_armor>true</damages_armor>
+            <armorpiercing>8</armorpiercing>
+			<accuracy_bonus>2</accuracy_bonus>
+            <severtype>NASTY</severtype>
+        </attack>
+        <attack>
+            <priority>2</priority>
+            <attack_description>swings at</attack_description>
+            <skill>CLUB</skill>
+            <strength_min>6</strength_min>
+            <strength_max>12</strength_max>
+            <random_damage>21</random_damage>
+            <fixed_damage>5</fixed_damage>
+            <bruises>true</bruises>
+        </attack>
+    </weapontype>
 
 </weapons>

@@ -120,6 +120,11 @@
         </item>
 		<item>
             <class>WEAPON</class>
+            <type>WEAPON_SNIPER</type> <!-- Liberal Additions -->
+            <price>10000</price>
+        </item>
+		<item>
+            <class>WEAPON</class>
             <type>WEAPON_SHOTGUN_AA12</type> <!-- Liberal Additions -->
             <price>1500</price>
         </item>
@@ -138,7 +143,7 @@
     <department>
         <entry>Buy Liberal Clips</entry>
         <letter>c</letter>
-        <fullscreen>true</fullscreen> <!-- Liberal Additions: Not enough space for M249 Drum -->
+        <fullscreen>true</fullscreen> <!-- Liberal Additions: Not enough space for M249 Drum and Sniper Mag -->
         <exit>Done buying Liberal clips</exit>
         <item>
             <class>CLIP</class>
@@ -215,6 +220,12 @@
             <description>Buy an AA-12 Drum</description>
             <type>CLIP_DRUM_AA12</type> <!-- Liberal Additions: Impossible to have BOTH Shotgun and AA-12 sharing ammo AND separate clips for them as far as I know. -->
             <price>50</price>
+        </item> 
+		<item>
+            <class>CLIP</class>
+            <description>Buy a .300 Sniper Mag</description>
+            <type>CLIP_SNIPER</type> <!-- Liberal Additions -->
+            <price>75</price>
         </item> 
     </department>
 

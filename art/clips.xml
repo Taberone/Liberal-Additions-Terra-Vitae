@@ -69,6 +69,13 @@
         <ammo>30</ammo>
         <fencevalue>8</fencevalue>
     </cliptype>
+	
+	<cliptype idname="CLIP_SNIPER"> <!-- Liberal Additions -->
+        <name>.300 Sniper Mag</name>
+        <name_future>Sniper Powerpack</name_future>
+        <ammo>10</ammo>
+        <fencevalue>10</fencevalue>
+    </cliptype>
 
     <cliptype idname="CLIP_GASOLINE">
         <name>Gas Tank</name>

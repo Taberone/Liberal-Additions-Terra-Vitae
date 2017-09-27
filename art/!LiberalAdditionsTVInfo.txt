@@ -10,6 +10,7 @@ Some custom attack descriptions added
 Certain weapons no longer protect from kidnapping
 Some weapons have their size reduced, and some weapons have minor additions like accuracy bonuses or bleeding
 AA-12 uses a 20-round drum magazine and fires shotgun slugs that have 6 AP
+Sniper Rifle added
 
 (Fixed Damage = FD, Random Damage = RD, Armor Pierce = AP, SAD = Successive Attack Difficulty)
 44 Magnum: 20 fixed damage, 286 random damage, 6 Armor Pierce
@@ -21,6 +22,7 @@ Desert Eagle: 20 FD, 311 RD, 6 AP
 Flamethrower: Legality changed to 0 (Actually legal according to Cracked, won't be banned until gun laws turn slightly Liberal), Flamethrower has 10 AP, 33% "No Limb Damage Reduction" chance, 0% chance of fire starting (To prevent it killing your entire squad)
 M4 Carbine: size changed to 10
 M249: custom attack description
+Sniper Rifle: 15 FD, 301 RD, 8 AP, Accuracy Bonus of 2
 Molotov: 10 AP and no chance to start a fire, Size changed to 5
 Axe: can hit twice, has 5 successive attack difficulty, and has 7 AP
 Baseball Bat: can hit 3x, has 5 SAD, 6 AP
@@ -47,6 +49,7 @@ NEW WEAPONS:
 
 Five SeveN and P90 added. Both of them have 7 Armor Piercing and use 20-round 5.7x28mm magazines, but they do about as much damage as the .38 Revolver.
 Grenades added. 66% "No damage reduction for limbs" chance.
+Sniper Rifle added.
 
 ----------
 EXPANDED CONSERVATIVE ARMORY:
@@ -56,19 +59,19 @@ New toys for Conservatives to play with. You get stuff ranging from Deathsquad O
 
 CEOs: .44 Magnum and Five SeveN
 SWAT, Mafia Lady: Five SeveN and P90
-Deathsquads: AA-12, Desert Eagle, M249, Five SeveN, P90, Grenade, .44 Magnum. 
+Deathsquads: AA-12, Desert Eagle, M249, Five SeveN, P90, Grenade, .44 Magnum, Sniper
 Police Gang Unit: 45 Pistol, 44 Magnum, AR-15
-Agent: Grenade, Desert Eagle, 45 Pistol, AA-12, M249, P90, Five SeveN, Daisho, Sword
+Agent: Grenade, Desert Eagle, 45 Pistol, AA-12, M249, P90, Five SeveN, Daisho, Sword, Sniper
 Secret Service: 45 Pistol, P90, Five SeveN
-Soldier: Shotgun, M249, Grenade
-CCS Boss: M249, Daisho, Flamethrower
+Soldier: Shotgun, M249, Grenade, Sniper
+CCS Boss: M249, Daisho, Flamethrower, Sniper
 Military Police: 45 Pistol, P90, Five SeveN, Grenade, AA-12
-Navy SEAL: AA-12, M249, P90, Five SeveN, Grenade
+Navy SEAL: AA-12, M249, P90, Five SeveN, Grenade, Sniper
 Best Man, Bride, Groom, Maid of Honor: 45 Pistol and Desert Eagle
 Mafia Don: Desert Eagle
 Mafia Goon: 45 Pistol
-Mafia Hitman: P90, Five SeveN, 45 Pistol, Desert Eagle
-Agency Assassin: P90, Five SeveN, 44 Magnum
+Mafia Hitman: P90, Five SeveN, 45 Pistol, Desert Eagle, Sniper
+Agency Assassin: P90, Five SeveN, 44 Magnum, Sniper
 Terra Vitae Leader: 45 Pistol, Sword
 
 ----------
@@ -116,7 +119,7 @@ ARMOR CHANGES
 
 Not many changes.
 
-Deathsquad Armor has a drug bonus
+Deathsquad Armor has a drug bonus and some actual goshdarn armor now. No more easy M16's for you!
 Heavy Armor conceals face, has 10 base Interrogation power, assault and drug bonus
 
 ----------
@@ -141,4 +144,4 @@ Nothing yet.
 DEPTSTORE CHANGES
 ----------
 
-Nothing yet.
+Sells Gasoline for flamethrowers, the newly added Ssiper Rifle, and Sniper ammo.

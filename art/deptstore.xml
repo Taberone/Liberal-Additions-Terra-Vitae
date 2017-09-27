@@ -144,6 +144,12 @@
 			<letter>G</letter>
 			<price>15000</price>
 		</item>
+		<item>
+            <class>WEAPON</class>
+			<description>Buy a Sniper Rifle</description>
+            <type>WEAPON_SNIPER</type> <!-- Liberal Additions -->
+            <price>10000</price>
+        </item>
 	</department>
     <department>
         <entry>Sporting-Ammo Counter</entry> <!--Renamed from "Ammunition" at Shade's suggestion. -->
@@ -191,6 +197,13 @@
             <type>CLIP_GASOLINE</type> <!-- Liberal Additions -->
             <letter></letter>
             <price>100</price>
+        </item>
+		<item>
+            <class>CLIP</class>
+            <description>Buy a .300 Sniper Mag</description>
+            <type>CLIP_GASOLINE</type> <!-- Liberal Additions -->
+            <letter></letter>
+            <price>75</price>
         </item>
     </department>
 </shop>

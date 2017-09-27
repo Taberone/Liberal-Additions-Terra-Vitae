@@ -374,9 +374,14 @@
     <armortype idname="ARMOR_DEATHSQUADUNIFORM">
         <make_difficulty>9</make_difficulty>
         <make_price>40</make_price>
+		<armor> <!-- Liberal Additions: Deathsquad Uniform has armor now. No more easy M16's for you! -->
+            <body>8</body>
+            <head>6</head>
+            <limbs>4</limbs>
+        </armor>
         <deathsquad_legality>true</deathsquad_legality>
-        <name>Death Squad Uniform</name>
-        <shortname>DSquad Uniform</shortname>
+        <name>Death Squad Armor</name> <!-- Liberal Additions -->
+        <shortname>DSquad Armor</shortname> <!-- Liberal Additions -->
         <fencevalue>80</fencevalue>
         <body_covering>
             <head>true</head>

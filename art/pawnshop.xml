@@ -91,7 +91,7 @@
     <department>
         <entry>Buy Liberal Clips</entry>
         <letter>c</letter>
-        <fullscreen>true</fullscreen> <!-- Liberal Additions: Not enough space for the M249 Drum -->
+        <fullscreen>true</fullscreen> <!-- Liberal Additions: Not enough space for the M249 Drum and Sniper Ammo -->
         <exit>Done buying Liberal clips</exit>
         <item>
             <class>CLIP</class>
@@ -163,6 +163,12 @@
             <letter></letter>
             <price>100</price>
 		</item>
+		<item>
+            <class>CLIP</class>
+            <description>Buy a .300 Sniper Mag</description>
+            <type>CLIP_SNIPER</type> <!-- Liberal Additions -->
+            <price>75</price>
+        </item> 
 		<item>
             <class>CLIP</class>
             <description>Buy an AA-12 Drum</description>
